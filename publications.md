@@ -1,0 +1,28 @@
+title: User Name's Homepage
+page-top-title: User Name
+top-section-bg-text: Computer Science
+backgrounds:
+  - static/assets/background/background_0.jpeg
+  - static/assets/background/background_1.jpeg
+background-interval-ms: 7000
+background-overlay: 0.52
+copyright-text: '&copy; Sen Li 2023-2026. All Rights Reserved.'
+github-link:
+  text: Github
+  href: https://github.com/senli1073
+license-link:
+  text: License
+  href: https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE
+sections:
+  - id: home
+    nav: HOME
+    title: User Name&ensp;|&ensp;姓名
+    href: '#page-top' # Default to '#<id>' if not specified
+  - id: publications
+    nav: PUBLICATIONS
+    title: PUBLICATIONS
+    icon: bi-file-text-fill
+  - id: awards
+    nav: AWARDS
+    title: AWARDS
+    icon: bi-award-fill
