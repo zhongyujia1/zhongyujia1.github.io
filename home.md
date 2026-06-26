@@ -1,12 +1,12 @@
+#钟雨佳
+Master Student, North China University of Technology
+Major: Information and Communication Engineering
+###Contact
+Email: 2091521366@qq.com
+###Education
+- 2026 – Present  Master of Information and Communication Engineering, North China University of Technology
 
-- Outstanding Graduate Award (CUMT), 2025.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
-
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+###Research Interests
+Wireless communication, signal processing, communication algorithm research
+###Honors & Awards
